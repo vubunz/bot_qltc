@@ -1,6 +1,7 @@
 # Bot Quản Lý Chi Tiêu 💰
 
 Bot Telegram giúp quản lý chi tiêu cá nhân một cách hiệu quả và trực quan.
+Link bot tác giả: https://t.me/quanlyti3n_bot
 
 ## Tính năng chính 🌟
 
